@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Predictive Insight (Internship)
+- project: Predictive Insight (Internship)
+  role: Internship
+  duration: March 2022 &mdash; June 2022
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: During my Data Science internship, I undertook various projects centered on harnessing machine learning methodologies for actionable insights and predictive analytics. I engineered a Stock Price Prediction model leveraging historical data, facilitating informed investment strategies. Additionally, I executed a thorough Wine Quality Analysis, utilizing statistical techniques to discern factors impacting wine ratings. Moreover, I crafted a Flight Price Prediction system that integrated multiple parameters like route and date, offering travelers precise and economical flight price estimations to optimize travel planning.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
+# Hand Gesture Recognition using CNN(Machine
+- project: Hand Gesture Recognition using CNN
+  role: Research based Projrct
+  duration: Jan 2021 &mdash; June 2021
+  # url: "#"
+  description: Developed a machine learning model focused on American Sign Language recognition, proficiently detecting hand movements within the display view and translating gestures into corresponding symbols.<br>Utilized Python libraries including Scikit-learn, pandas, and numpy for data preprocessing, alongside implementing machine learning algorithms such as Logistic Regression, K-Nearest Neighbors, and Support Vector Machine to achieve accurate gesture recognition.
+
+# Real-Time Object detection using Python
+- project: Real-Time Object detection using Python
   role: Co-Founder & Organizer
   duration: 2007 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Implemented real-time object detection using Python, specifically utilizing Jupyter Notebook and YOLO V3, to analyze input images and generate output images that highlight objects with bounding boxes, class IDs, and associated probabilities.<br>Executed predictions leveraging the YOLO V3 pre-trained model, ensuring accurate and efficient object identification within images.
