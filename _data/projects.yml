@@ -13,11 +13,11 @@
   role: Research based Projrct
   duration: Jan 2021 &mdash; June 2021
   # url: "#"
-  description: - Developed a machine learning model focused on American Sign Language recognition, proficiently detecting hand movements within the display view and translating gestures into corresponding symbols.<br>- Utilized Python libraries including Scikit-learn, pandas, and numpy for data preprocessing, alongside implementing machine learning algorithms such as Logistic Regression, K-Nearest Neighbors, and Support Vector Machine to achieve accurate gesture recognition.
+  description: &ndash; Developed a machine learning model focused on American Sign Language recognition, proficiently detecting hand movements within the display view and translating gestures into corresponding symbols.<br> &ndash; Utilized Python libraries including Scikit-learn, pandas, and numpy for data preprocessing, alongside implementing machine learning algorithms such as Logistic Regression, K-Nearest Neighbors, and Support Vector Machine to achieve accurate gesture recognition.
 
 # Real-Time Object detection using Python
 - project: Real-Time Object detection using Python
   role: Co-Founder & Organizer
   duration: 2007 &mdash; Present
   # url: "#"
-  description: - Implemented real-time object detection using Python, specifically utilizing Jupyter Notebook and YOLO V3, to analyze input images and generate output images that highlight objects with bounding boxes, class IDs, and associated probabilities.<br>- Executed predictions leveraging the YOLO V3 pre-trained model, ensuring accurate and efficient object identification within images.
+  description: &ndash; Implemented real-time object detection using Python, specifically utilizing Jupyter Notebook and YOLO V3, to analyze input images and generate output images that highlight objects with bounding boxes, class IDs, and associated probabilities.<br>&ndash; Executed predictions leveraging the YOLO V3 pre-trained model, ensuring accurate and efficient object identification within images.
